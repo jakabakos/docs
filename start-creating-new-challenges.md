@@ -2,12 +2,12 @@
 description: >-
   It's really great if you created a challenge that runs locally, but the best
   thing if you share it also with others. To do this, you need to be an Avatao
-  challenge creator.
+  challenge creator. Let's see how.
 ---
 
 # Publish your challenge on Avatao
 
-
+At Avatao, we believe that there are many smart people around the world whose technical skills are invaluable and happy to share their experience with others. That's why we do our best to make the process of challenge creation and publication as easy as possible. Also, we exactly know that education must be fun and enjoyable. 
 
 1. Content creator should accept the invitation and link his _GitHub_ account with the platform.
 2. After accepting the invitation, content creator should see a new menu item called “Create challenge” in the sidebar of his/her Dashboard. Please choose a license type \(normally, there is one option\) and insert a challenge repository name and a small description.
