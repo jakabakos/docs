@@ -1,5 +1,5 @@
 # Table of contents
 
 * [Getting started](README.md)
-* [Start creating new challenges](start-creating-new-challenges.md)
+* [Publish your challenge on Avatao](start-creating-new-challenges.md)
 

@@ -1,20 +1,33 @@
-# Start creating new challenges
+---
+description: >-
+  It's really great if you created a challenge that runs locally, but the best
+  thing if you share it also with others. To do this, you need to be an Avatao
+  challenge creator.
+---
+
+# Publish your challenge on Avatao
 
 
 
-1. **Content creator should accept the invitation and link his github account with the platform.**
-2. **After accepting the invitation, content creator should see a new menu item called “Create challenge” in the sidebar of his/her Dashboard. Please choose a license type \(normally, there is one option\) and insert a challenge repository name and a small description.**
+1. Content creator should accept the invitation and link his _GitHub_ account with the platform.
+2. After accepting the invitation, content creator should see a new menu item called “Create challenge” in the sidebar of his/her Dashboard. Please choose a license type \(normally, there is one option\) and insert a challenge repository name and a small description.
 
-**Important: Please choose a challenge repository name that describes what the problem is in the challenge, because this name cannot be changed later on. For example, don’t call your repository “SQL injection” because there can be a lot of such challenges. Try to be more specific such SQL injection in Java via Hibernate. Later, you will see that the name of the repository can be different from the name of the challenge, but we strongly suggest to have the same  to be able to find it easier on Github. Example: if the name of your challenge is “My Fantastic Challenge - 2018” the name of the repository should be “my-fantastic-challenge-2018”.**
+{% hint style="warning" %}
+Please choose a _challenge repository name_ that describes what the problem is in the challenge, because this name cannot be changed later on. For example, **don’t call** your repository “_SQL injection_” because there can be a lot of such challenges. 
 
-1. **Once the content creator has a github URL he/she should clone it via HTTPS or SSH, if she/he had already uploaded her/his pubkey to github.**
-2. **Once the URL is cloned, a staging branch should be created as follows:**
-3. **Start writing challenge**
+Try to be more specific such as "_SQL injection in Java via Hibernate_". Later, you will see that the name of the repository can be different from the name of the challenge, but we **strongly** **suggest** to have the same  to be able to find it easier on Github. Example: if the name of your challenge is “My Fantastic Challenge - 2018” the name of the repository should be “my-fantastic-challenge-2018”**.**
+{% endhint %}
 
-**git checkout -b staging**
 
-**git push -u origin staging**  
 
+1. 2. **Once the content creator has a github URL he/she should clone it via HTTPS or SSH, if she/he had already uploaded her/his pubkey to github.**
+3. **Once the URL is cloned, a staging branch should be created as follows:**
+4. **Start writing challenge**
+
+```text
+git checkout -b staging
+git push -u origin staging
+```
 
 1. **Since  the master branch is write-protected, only the staging branch can be used later on.**
 2. **Use the correct challenge template from our** [**challenge toolbox**](https://github.com/avatao-content/challenge-toolbox) **and copy all the necessary information \(excluding .git directory\) from there to the git repository you have just cloned.**
