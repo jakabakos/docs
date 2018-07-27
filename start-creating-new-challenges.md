@@ -9,7 +9,11 @@ description: >-
 
 At Avatao, we believe that there are many smart people around the world whose technical skills are invaluable, but they are also happy to share their experience with others. That's why we do our best to make the process of content creation and publication as easy as possible. At the same time, we exactly know that education must be fun and enjoyable. To achieve this, our contents have to meet high quality standards. 
 
+{% hint style="info" %}
 Simply, each challenge or tutorial has to pass the automatic and manual review process, before being published. Please find below the details.
+{% endhint %}
+
+
 
 1. If we haven't contacted you before, please fill in this form.
 2. Content creator should accept the invitation and link his _GitHub_ account with the platform.
