@@ -13,8 +13,6 @@ At Avatao, we believe that there are many smart people around the world whose te
 Simply, each challenge or tutorial has to pass the automatic and manual review process, before being published. Please find below the details.
 {% endhint %}
 
-
-
 1. If we haven't contacted you before, please fill in this form.
 2. Content creator should accept the invitation and link his _GitHub_ account with the platform.
 3. After accepting the invitation, content creator should see a new menu item called “Create challenge” in the sidebar of his/her Dashboard. Please choose a license type \(normally, there is one option\) and insert a challenge repository name and a small description.
@@ -25,11 +23,10 @@ Please choose a _challenge repository name_ that describes what the problem is i
 Try to be more specific such as "_SQL injection in Java via Hibernate_". Later, you will see that the name of the repository can be different from the name of the challenge, but we **strongly** **suggest** to have the same  to be able to find it easier on Github. Example: if the name of your challenge is “My Fantastic Challenge - 2018” the name of the repository should be “my-fantastic-challenge-2018”**.**
 {% endhint %}
 
-1. Once the content creator has a Github URL he/she should clone it via HTTPS or SSH, if she/he had already uploaded her/his pubkey to Github.
+1. Once the content creator has a Github URL he/she should clone it via _HTTPS_ or _SSH_, if she/he had already uploaded her/his pubkey to Github.
 2. Once the URL is cloned, a staging branch should be created as follows:
-3. Start writing challenge
 
-```text
+```bash
 git checkout -b staging
 git push -u origin staging
 ```
