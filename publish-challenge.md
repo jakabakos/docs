@@ -17,10 +17,11 @@ Simply, each challenge or tutorial has to pass the automatic and manual review p
 2. Content creator should accept the invitation and link his _GitHub_ account with the platform.
 3. After accepting the invitation, content creator should see a new menu item called “**Create challenge**” in the sidebar of his/her **Dashboard**. Please choose a license type \(normally, there is one option\) and insert a challenge repository name and a small description.  
 
-
+   {% hint style="info" %}
    Please choose a _challenge repository name_ that describes what the problem is in the challenge, because this name cannot be changed later on. For example, **don’t call** your repository “_SQL injection_” because there can be a lot of such challenges.
 
-   Try to be more specific such as "_SQL injection in Java via Hibernate_". Later, you will see that the name of the repository can be different from the name of the challenge, but we **strongly** **suggest** to have the same to be able to find it easier on Github. Example: if the name of your challenge is “_My Fantastic Challenge - 2018_” the name of the repository should be “my-fantastic-challenge-2018”**.**  
+   Try to be more specific such as "_SQL injection in Java via Hibernate_". Later, you will see that the name of the repository can be different from the name of the challenge, but we **strongly** **suggest** to have the same to be able to find it easier on Github. Example: if the name of your challenge is “_My Fantastic Challenge - 2018_” the name of the repository should be “my-fantastic-challenge-2018”.
+  {% endhint %}
 
 4. Once the content creator has a Github URL he/she should clone it via _HTTPS_ or _SSH_, if she/he had already uploaded her/his pubkey to Github.
 5. Once the URL is cloned, a staging branch should be created as follows:
