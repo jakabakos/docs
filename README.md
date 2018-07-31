@@ -7,5 +7,7 @@ description: >-
 
 # Getting started
 
+{% page-ref page="use-cases.md" %}
 
+{% page-ref page="publish-challenge.md" %}
 
