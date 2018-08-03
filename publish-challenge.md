@@ -22,7 +22,7 @@ Simply, each challenge or tutorial has to pass the automatic and manual review p
 {% hint style="info" %}
 Please choose a _challenge repository name_ that describes what the problem is in the challenge, because this name cannot be changed later on. For example, **don’t call** your repository “_SQL injection_” because there can be a lot of such challenges.
 
-Try to be more specific such as "_SQL injection in Java via Hibernate_". Later, you will see that the name of the repository can be different from the name of the challenge, but we **strongly** **suggest** to have the same to be able to find it easier on Github. Example: if the name of your challenge is “_My Fantastic Challenge - 2018_” the name of the repository should be “my-fantastic-challenge-2018”**.**  
+Try to be more specific such as "_SQL injection in Java via Hibernate_". Later, you will see that the name of the repository can be different from the name of the challenge, but we **strongly** **suggest** to have the same to be able to find it easier on Github. For example: if the name of your challenge is “_My Fantastic Challenge - 2018_” the name of the repository should be “my-fantastic-challenge-2018”**.**  
 {% endhint %}
 
 ## Use Git and GitHub

@@ -1,16 +1,16 @@
-# Why us?
+---
+description: >-
+  Good technical demos require a reasonable effort and time. Avatao tutorials
+  allows you to showcase your demo in an easy and flawless way 24/7.
+---
 
-## Why to use tutorials instead of slides?
+# Why Avatao Tutorials?
 
-Technical presentation can be a pain. Use the Avatao platform to create an interactive, engaging demo. 
+## Why to use Avatao tutorials instead of homemade demos and videos?
 
-### What is it?
+Technical demos are a huge pain to be created, maintained and published. Avatao tutorials gives you various advantages over homemade solutions. 
 
-
-
-### Why is it better?
-
-
+### Why?
 
 1. Prepare your topic once and present any time online
 2. Available 24/7
@@ -18,10 +18,7 @@ Technical presentation can be a pain. Use the Avatao platform to create an inter
 4. Less preparation time
 5. Save time to run your demo
 
-### How to be involved
+### How to be involved?
 
-It is easy and it 's going to be free
+See the details [here](publish-challenge.md). 
 
-
-
-1. 
