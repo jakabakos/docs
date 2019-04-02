@@ -11,3 +11,19 @@ description: >-
 
 {% page-ref page="publish-challenge.md" %}
 
+## Content developer's kickstarter
+
+{% page-ref page="content-developers-kickstarter/content-developers-kickstarter.md" %}
+
+{% page-ref page="content-developers-kickstarter/challenge-types.md" %}
+
+{% page-ref page="content-developers-kickstarter/environment.md" %}
+
+{% page-ref page="content-developers-kickstarter/process-of-creating-own-challenges.md" %}
+
+{% page-ref page="content-developers-kickstarter/untitled.md" %}
+
+{% page-ref page="content-developers-kickstarter/communication-with-tfw.md" %}
+
+{% page-ref page="content-developers-kickstarter/building-and-running.md" %}
+
