@@ -11,7 +11,7 @@ description: >-
 
 {% page-ref page="publish-challenge.md" %}
 
-## Content developer's kickstarter
+## Challenge creators's kickstarter
 
 {% page-ref page="content-developers-kickstarter/content-developers-kickstarter.md" %}
 
