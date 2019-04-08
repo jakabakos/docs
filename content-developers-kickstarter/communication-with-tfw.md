@@ -35,7 +35,7 @@ The TFW message format:
 
 #### Changing between terminal and console
 
-`{ 'key': 'dashboard', 'data': { 'command': 'terminalMenuItem', 'value': 'terminal' // or 'console' } }`
+`{ 'key': 'dashboard', 'data': { 'command': 'terminalMenuItem', 'value': 'terminal'  } }`
 
 #### Read terminal command history
 
