@@ -64,7 +64,7 @@ You can send/receive JSON messages to/from the TFW server as any user, because w
 To see how you can define a custom `PipeIOEventHandler`, check `pipe_io_auxlib.py` here: https://github.com/avatao-content/test-tutorial-framework/blob/master/solvable/src/pipe_io_auxlib.py
 As you can see, two methods should be declared: 
 	* `handle_event(self, message)`: this method is invoked when a message comes that you are subcribed to it's key
-	* `handle_pipe_event(self, message_bytes)`
+	* `handle_pipe_event(self, message_bytes)`: message that comes to the pipe
 
 ## A few words about safety and using pipes
 
