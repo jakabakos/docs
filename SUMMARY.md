@@ -4,7 +4,7 @@
 * [Why Avatao Tutorials?](use-cases.md)
 * [Publish your challenge on Avatao](publish-challenge.md)
 
-## Challenge creators's kickstarter
+## Challenge creators's kickstarter <a id="content-developers-kickstarter"></a>
 
 * [Introduction](content-developers-kickstarter/content-developers-kickstarter.md)
 * [Challenge types](content-developers-kickstarter/challenge-types.md)
