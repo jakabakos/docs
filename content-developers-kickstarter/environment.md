@@ -36,5 +36,5 @@ This will set up a dev environment based on [test-tutorial-framework](https://gi
 
 By default your IDE will fail to autocomplete code and will complain about missing dependencies. To fix this you should install the tfw pip package in your dev virtualenv:
 
-`pip install git+ssh://git@github.com/avatao-content/baseimage-tutorial-framework.git (SSH) pip install git+https://github.com/avatao-content/baseimage-tutorial-framework.git (HTTPS`
+`pip install git+ssh://git@github.com/avatao-content/baseimage-tutorial-framework.git (SSH) pip install git+https://github.com/avatao-content/baseimage-tutorial-framework.git (HTTPS)`
 
